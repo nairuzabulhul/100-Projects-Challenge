@@ -10,5 +10,12 @@ Projects from my Junior year to Senior year at AU
 - Matching Fabric Experiment: 
 - Twitch Application : http://nairuzabulhul.github.io/Twitchtv-application/index.html
 - Hacker Game: http://nairuzabulhul.esy.es/hacker_game/index.html
-- 53: GeoChart : https://github.com/nairuzabulhul/GeoChart/
+- GeoChart : https://github.com/nairuzabulhul/GeoChart/
+- Black Jack Game(python):  http://www.codeskulptor.org/#user38_MpNbuoattY_6.py 
+- Memory Game (python):  http://www.codeskulptor.org/#user38_SJVATzQGUf_15.py 
+- Pong Game (python):  http://www.codeskulptor.org/#user38_eM1rH9p5JC_0.py 
+- Guess Game (Python):  http://www.codeskulptor.org/#user38_u4SrTi50pN1IJc0.py 
+- Cease Cipher
+- Wikipedia Search Engine(Excellent): https://github.com/nairuzabulhul/Wikipedia...
+- Official Personal Portfolio: http://codepen.io/ZeeMax/live/eJVJN... (Excellent)
 
