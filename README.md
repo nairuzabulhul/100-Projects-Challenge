@@ -14,18 +14,24 @@ Projects from my Junior year to Senior year at AU
 - Twitch Application : http://nairuzabulhul.github.io/Twitchtv-application/index.html
 - Color Picker Game : https://nairuzabulhul.github.io/Color-picker-Game/
 
+
+
 - JavaScript Calculator: https://github.com/nairuzabulhul/JavaScript-Calculator-Zipline
 - Quote Machine : https://github.com/nairuzabulhul/Quote-Machine-Zipline
 - Pomodoro Clock : https://github.com/nairuzabulhul/Pomodoro-Clock-Zilpline
 - Local Weather App : https://github.com/nairuzabulhul/Local-Weather-App-Zipline
 
+
+
+
 - Amazon Mechanical Turk Experiment: http://nairuzabulhul.github.io/Amazon_mechanical_turk_project/
 - Matching Fabric Experiment: 
-
 - Tip Calculator : https://github.com/nairuzabulhul/Tip-Calculator 
 - Hacker Game: http://nairuzabulhul.esy.es/hacker_game/index.html
 - GeoChart :   https://github.com/nairuzabulhul/GeoChart/
 - Car Race :  https://github.com/nairuzabulhul/Car-Race
+
+
 
 - Black Jack Game(python):  http://www.codeskulptor.org/#user38_MpNbuoattY_6.py 
 - Memory Game (python):  http://www.codeskulptor.org/#user38_SJVATzQGUf_15.py 
@@ -34,10 +40,14 @@ Projects from my Junior year to Senior year at AU
 - Rice Rock Game (Python) : http://www.codeskulptor.org/#user38_vjnYkLBZZ9_42.py
 
 
+
+
 -  Coffee Landing Page : https://github.com/nairuzabulhul/Coffee-Landing-Page
 -  Blog Template Project : https://github.com/nairuzabulhul/Blog-Template-Project
 -  Moving Ball : http://codepen.io/ZeeMax/full/PZWoBr 
 - To-do List Web Application : https://github.com/nairuzabulhul/To-do-List-Web-App
+
+
 
 
 - Droppable Pictures: https://github.com/nairuzabulhul/Droppable-Pictures
@@ -46,6 +56,8 @@ Projects from my Junior year to Senior year at AU
 - Sign Up From : https://github.com/nairuzabulhul/Sign-Up-Form
 - Hidden Objects Game: https://github.com/nairuzabulhul/Hidden-Object-Game
 - Galleria: https://github.com/nairuzabulhul/Galleria
+
+
 
 
 - Music Event App : https://github.com/nairuzabulhul/MusicEvents
