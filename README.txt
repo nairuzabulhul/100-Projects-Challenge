@@ -1,5 +1,5 @@
 # 100-Projects-Challenge
-Projects from my Junior year to Senior year at AU 
+Projects from my Sophomore year to Senior year at AU 
 
 Official Personal Portfolio: http://nairuzabulhul.esy.es/portfolio/index.html
 
