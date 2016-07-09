@@ -4,18 +4,18 @@ Projects from Sophomore year to Senior year at AU
 Official Personal Portfolio: http://nairuzabulhul.esy.es/portfolio/index.html
 
 Recent Projects:
-43- Twilio SMS APP: https://github.com/nairuzabulhul/Twilio_SMS_APP/tree/master
+43- Twilio SMS APP: https://github.com/nairuzabulhul/Twilio_SMS_APP/tree/master   (pyhton(Django))
 
 Full-Stack :
 42- Yelp Camp:  
-41-Recipes World: https://github.com/nairuzabulhul/Recipes_World/blob/master/README.MD
-40- Blogging Web App    :https://github.com/nairuzabulhul/Blogging_Web_App
+41-Recipes World: https://github.com/nairuzabulhul/Recipes_World/blob/master/README.MD  (JS node.js)
+40- Blogging Web App    :https://github.com/nairuzabulhul/Blogging_Web_App              (JS node.js)
 
 ------------------------------------------------------------------------------------------------------------------------------
 
 39- Todo-List: https://github.com/nairuzabulhul/To-do-List-App
 38- Official Personal Portfolio: http://nairuzabulhul.esy.es/portfolio/index.html
-37- Wikipedia Search Engine(Excellent): https://github.com/nairuzabulhul/Wikipedia-Search-Engine--Zipline
+37- Wikipedia Search Engine(Excellent): https://github.com/nairuzabulhul/Wikipedia-Search-Engine--Zipline 
 36- Campers News: https://github.com/nairuzabulhul/Campers-News-Zipline
 35- Twitch Application : http://nairuzabulhul.github.io/Twitchtv-application/index.html
 34- Color Picker Game : https://nairuzabulhul.github.io/Color-picker-Game/
