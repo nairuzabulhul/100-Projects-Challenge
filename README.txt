@@ -4,7 +4,7 @@ Projects from Sophomore year to Senior year at AU
 Official Personal Portfolio: http://nairuzabulhul.esy.es/portfolio/index.html
 
 Recent Projects:
-43- Twilio SMS APP: https://github.com/nairuzabulhul/Twilio_SMS_APP/tree/master   (pyhton(Django))
+43- Twilio SMS APP: https://github.com/nairuzabulhul/Twilio_SMS_APP/tree/master   (python(Django))
 
 Full-Stack :
 42- Yelp Camp:  
