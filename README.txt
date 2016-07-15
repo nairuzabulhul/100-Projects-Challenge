@@ -3,11 +3,20 @@ Projects from Sophomore year to Senior year at AU
 
 Official Personal Portfolio: http://nairuzabulhul.esy.es/portfolio/index.html
 
-Recent Projects:
-43- Twilio SMS APP: https://github.com/nairuzabulhul/Twilio_SMS_APP/tree/master   (python(Django))
+Non-Coding Porject:
+
+46- Web Terminology  https://github.com/nairuzabulhul/Web-terminology
+47-  FFC Algorithm Scripting  https://github.com/nairuzabulhul/Free_Code_Camp_Algorithm
+48- 
+
+Coding Projects:
 
 Full-Stack :
-42- Yelp Camp:  
+
+45- Muzzika : (Django)
+44- Twilio SMS APP: https://github.com/nairuzabulhul/Twilio_SMS_APP/tree/master         (python(Django)
+43- Passport.js Authentication https://github.com/nairuzabulhul/Authenticaion-passport.js/tree/master/secretpage (Node.js)
+42- Yelp Camp:                                                                           (node.js)
 41-Recipes World: https://github.com/nairuzabulhul/Recipes_World/blob/master/README.MD  (JS node.js)
 40- Blogging Web App    :https://github.com/nairuzabulhul/Blogging_Web_App              (JS node.js)
 
