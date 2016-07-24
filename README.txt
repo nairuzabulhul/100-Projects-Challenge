@@ -48,7 +48,7 @@ CapStone:
 ------------------------------------------------------------------------------------------------------
 22- Coffee Landing Page : https://github.com/nairuzabulhul/Coffee-Landing-Page
 21- Blog Template Project : https://github.com/nairuzabulhul/Blog-Template-Project
-20- Moving Ball : http://codepen.io/ZeeMax/full/PZWoBr 
+20- Moving Ball : http://codepen.io/nairuabulhul/full/PZWoBr 
 19- To-do List Web Application : https://github.com/nairuzabulhul/To-do-List-Web-App
 18- Droppable Pictures: https://github.com/nairuzabulhul/Droppable-Pictures
 17- Pizza Restaurant Web Page : https://github.com/nairuzabulhul/Pizza-Restaurant-WebPage
@@ -64,7 +64,7 @@ Python Games:
 11- Memory Game (python):  http://www.codeskulptor.org/#user38_SJVATzQGUf_15.py 
 10- Pong Game (python):  http://www.codeskulptor.org/#user38_eM1rH9p5JC_0.py 
 9-  Guess Game (Python):  http://www.codeskulptor.org/#user38_u4SrTi50pN1IJc0.py 
-8-  Rice Rock Game (Python) : http://www.codeskulptor.org/#user38_vjnYkLBZZ9_42.py
+8-  Rice Rock Game (Python) : https://github.com/nairuzabulhul/Rice-Rock-Game
 ----------------------------------------------------------------------------------------------------------
 
 Android APPs:
