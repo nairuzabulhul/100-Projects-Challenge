@@ -5,7 +5,7 @@ Official Personal Portfolio: http://nairuzabulhul.esy.es/portfolio/index.html
 
 Non-Coding Porject:
 
-46- Web Terminology  https://github.com/nairuzabulhul/Web-terminology
+46- Tech Terminology  https://github.com/nairuzabulhul/Web-terminology
 47-  FFC Algorithm Scripting  https://github.com/nairuzabulhul/Free_Code_Camp_Algorithm
 48- 
 
