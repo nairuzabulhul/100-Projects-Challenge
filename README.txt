@@ -13,6 +13,7 @@ Coding Projects:
 
 Full-Stack :
 
+47-Serialize Form Input to JSON: https://github.com/nairuzabulhul/serialize_form_input_json
 46- Autosave App https://github.com/nairuzabulhul/auto-save-form  (Node.js)
 45- Muzzika : (Django)
 44- Twilio SMS APP: https://github.com/nairuzabulhul/Twilio_SMS_APP/tree/master         (python(Django)
