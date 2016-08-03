@@ -15,7 +15,7 @@ Full-Stack :
 
 47-Serialize Form Input to JSON: https://github.com/nairuzabulhul/serialize_form_input_json
 46- Autosave App https://github.com/nairuzabulhul/auto-save-form  (Node.js)
-45- Muzzika : (Django)
+45- Muzzika : https://github.com/nairuzabulhul/Muzzika/tree/master  (Django)
 44- Twilio SMS APP: https://github.com/nairuzabulhul/Twilio_SMS_APP/tree/master         (python(Django)
 43- Passport.js Authentication https://github.com/nairuzabulhul/Authenticaion-passport.js/tree/master/secretpage (Node.js)
 42- Yelp Camp:                                                                           (node.js)
