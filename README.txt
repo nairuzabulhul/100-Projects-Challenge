@@ -3,17 +3,18 @@ Projects from Sophomore year to Senior year at AU
 
 Official Personal Portfolio: http://nairuzabulhul.esy.es/portfolio/index.html
 
-Non-Coding Porject:
+Non-Coding Porjects:
 
-46- Tech Terminology  https://github.com/nairuzabulhul/Web-terminology
-47-  FFC Algorithm Scripting  https://github.com/nairuzabulhul/Free_Code_Camp_Algorithm
-48- 
+52-  Tech Terminology  https://github.com/nairuzabulhul/Web-terminology
+51-  FFC Algorithm Scripting  https://github.com/nairuzabulhul/Free_Code_Camp_Algorithm
+50-  General Commands https://github.com/nairuzabulhul/General-Commands
 
 Coding Projects:
 
 Full-Stack :
-
-47-Serialize Form Input to JSON: https://github.com/nairuzabulhul/serialize_form_input_json
+49- Jquery Wizard : (jQuery)
+48- Django API : https://github.com/nairuzabulhul/django_api (Django)
+47-Serialize Form Input to JSON: https://github.com/nairuzabulhul/serialize_form_input_json (Noded.js)
 46- Autosave App https://github.com/nairuzabulhul/auto-save-form  (Node.js)
 45- Muzzika : https://github.com/nairuzabulhul/Muzzika/tree/master  (Django)
 44- Twilio SMS APP: https://github.com/nairuzabulhul/Twilio_SMS_APP/tree/master         (python(Django)
