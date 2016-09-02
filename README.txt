@@ -5,14 +5,15 @@ Official Personal Portfolio: http://nairuzabulhul.esy.es/portfolio/index.html
 
 Non-Coding Porjects:
 
-52-  Tech Terminology  https://github.com/nairuzabulhul/Web-terminology
-51-  FFC Algorithm Scripting  https://github.com/nairuzabulhul/Free_Code_Camp_Algorithm
-50-  General Commands https://github.com/nairuzabulhul/General-Commands
+53- Algorithms in Python --- > https://github.com/nairuzabulhul/Algorithms_in_Python/tree/master
+52-  Tech Terminology ---->  https://github.com/nairuzabulhul/Web-terminology
+51-  FFC Algorithm Scripting --->  https://github.com/nairuzabulhul/Free_Code_Camp_Algorithm
+50-  General Commands ----> https://github.com/nairuzabulhul/General-Commands
 
 Coding Projects:
 
 Full-Stack :
-49- Jquery Wizard : (jQuery)
+49- Jquery Wizard : https://github.com/nairuzabulhul/Form-wizard/tree/master (jQuery)
 48- Django API : https://github.com/nairuzabulhul/django_api (Django)
 47-Serialize Form Input to JSON: https://github.com/nairuzabulhul/serialize_form_input_json (Noded.js)
 46- Autosave App https://github.com/nairuzabulhul/auto-save-form  (Node.js)
@@ -78,7 +79,3 @@ Android APPs:
 3- Android Audio Music : https://github.com/nairuzabulhul/AndroidAudioProject
 2- Convert Text to Speech : https://github.com/nairuzabulhul/ConvertTextToSpeech
 1- Bugs in CS Lounge (Team project with my Partner ) (Java): https://github.com/nairuzabulhul/Bugs_in_the_CS_Lounge
-
-
-
-
