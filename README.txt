@@ -1,7 +1,7 @@
 # 100-Projects-Challenge
 Projects from Sophomore year to Senior year at AU 
 
-Official Personal Portfolio: http://nairuzabulhul.esy.es/portfolio/index.html
+Official Personal Portfolio: https://codepen.io/NairuzAb/full/eJVJNr
 
 Non-Coding Porjects:
 
