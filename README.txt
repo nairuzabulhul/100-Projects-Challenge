@@ -1,27 +1,25 @@
 # 100-Projects-Challenge
 Projects from Sophomore year to Senior year at AU 
 
-Official Personal Portfolio: https://codepen.io/NairuzAb/full/eJVJNr
-
-Non-Coding Porjects:
-
-53- Algorithms in Python --- > https://github.com/nairuzabulhul/Algorithms_in_Python/tree/master
+Official Personal Portfolio: https://codepen.io/NairuzAb/full/eJVJN
+56-  https://github.com/nairuzabulhul/pyCogs (Python)
+55-  BackIt https://github.com/nairuzabulhul/BackIT (Python)
+54-  CodeBits: https://github.com/nairuzabulhul/.CodeBits
+53-  Algorithms in Python --- > https://github.com/nairuzabulhul/Algorithms_in_Python/tree/master
 52-  Tech Terminology ---->  https://github.com/nairuzabulhul/Web-terminology
 51-  FFC Algorithm Scripting --->  https://github.com/nairuzabulhul/Free_Code_Camp_Algorithm
 50-  General Commands ----> https://github.com/nairuzabulhul/General-Commands
 
-Coding Projects:
-
 Full-Stack :
 49- Jquery Wizard : https://github.com/nairuzabulhul/Form-wizard/tree/master (jQuery)
 48- Django API : https://github.com/nairuzabulhul/django_api (Django)
-47-Serialize Form Input to JSON: https://github.com/nairuzabulhul/serialize_form_input_json (Noded.js)
+47- Serialize Form Input to JSON: https://github.com/nairuzabulhul/serialize_form_input_json (Noded.js)
 46- Autosave App https://github.com/nairuzabulhul/auto-save-form  (Node.js)
 45- Muzzika : https://github.com/nairuzabulhul/Muzzika/tree/master  (Django)
 44- Twilio SMS APP: https://github.com/nairuzabulhul/Twilio_SMS_APP/tree/master         (python(Django)
 43- Passport.js Authentication https://github.com/nairuzabulhul/Authenticaion-passport.js/tree/master/secretpage (Node.js)
 42- Yelp Camp:                                                                           (node.js)
-41-Recipes World: https://github.com/nairuzabulhul/Recipes_World/blob/master/README.MD  (JS node.js)
+41- Recipes World: https://github.com/nairuzabulhul/Recipes_World/blob/master/README.MD  (JS node.js)
 40- Blogging Web App    :https://github.com/nairuzabulhul/Blogging_Web_App              (JS node.js)
 
 ------------------------------------------------------------------------------------------------------------------------------
