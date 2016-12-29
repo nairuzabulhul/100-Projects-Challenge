@@ -2,7 +2,7 @@
 Projects from Sophomore year to Senior year at AU 
 
 Official Personal Portfolio: https://codepen.io/NairuzAb/full/eJVJN
-56-  https://github.com/nairuzabulhul/pyCogs (Python)
+56-  Pycogs https://github.com/nairuzabulhul/pyCogs (Python)
 55-  BackIt https://github.com/nairuzabulhul/BackIT (Python)
 54-  CodeBits: https://github.com/nairuzabulhul/.CodeBits
 53-  Algorithms in Python --- > https://github.com/nairuzabulhul/Algorithms_in_Python/tree/master
