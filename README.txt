@@ -2,6 +2,9 @@
 Projects from Sophomore year to Senior year at AU 
 
 Official Personal Portfolio: https://codepen.io/NairuzAb/full/eJVJN
+59-  Lexer |Parser |Interpreter in Python 
+58 - Operating System programs in C 
+57 - KeyPlexer -- Python Keylogger
 56-  Pycogs https://github.com/nairuzabulhul/pyCogs (Python)
 55-  BackIt https://github.com/nairuzabulhul/BackIT (Python)
 54-  CodeBits: https://github.com/nairuzabulhul/.CodeBits
