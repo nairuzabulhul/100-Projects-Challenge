@@ -2,13 +2,16 @@
 Projects from Sophomore year to Senior year at AU 
 
 Official Personal Portfolio: https://codepen.io/NairuzAb/full/eJVJN
-59-  Lexer |Parser |Interpreter in Python 
-58 - Operating System programs in C 
-57 - KeyPlexer -- Python Keylogger
-56-  Pycogs https://github.com/nairuzabulhul/pyCogs (Python)
-55-  BackIt https://github.com/nairuzabulhul/BackIT (Python)
-54-  CodeBits: https://github.com/nairuzabulhul/.CodeBits
-53-  Algorithms in Python --- > https://github.com/nairuzabulhul/Algorithms_in_Python/tree/master
+
+
+60-
+59-  Iptables --> https://github.com/nairuzabulhul/Iptables
+58-  Bash Scripting --> https://github.com/nairuzabulhul/Bash_scripting
+57 - Operating System programs in C --> https://github.com/nairuzabulhul/Operating-System-in-C
+56 - KeyPlexer -- Python Keylogger
+55-  Pycogs https://github.com/nairuzabulhul/pyCogs (Python)
+54-  BackIt https://github.com/nairuzabulhul/BackIT (Python)
+53-  CodeBits: https://github.com/nairuzabulhul/.CodeBits
 52-  Tech Terminology ---->  https://github.com/nairuzabulhul/Web-terminology
 51-  FFC Algorithm Scripting --->  https://github.com/nairuzabulhul/Free_Code_Camp_Algorithm
 50-  General Commands ----> https://github.com/nairuzabulhul/General-Commands
