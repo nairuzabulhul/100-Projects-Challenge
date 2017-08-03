@@ -3,29 +3,61 @@ Projects from Sophomore year to Senior year at AU
 
 Official Personal Portfolio: https://codepen.io/NairuzAb/full/eJVJN
 
+### Python (Networking & Security):  
 
-60- 
-59-  [Firewall Rules](https://github.com/nairuzabulhul/Firewall_Rules)
-58-  Bash Scripting --> https://github.com/nairuzabulhul/Bash_scripting
-57 - Operating System programs in C --> https://github.com/nairuzabulhul/Operating-System-in-C
-56 - KeyPlexer -- Python Keylogger
-55-  Pycogs https://github.com/nairuzabulhul/pyCogs (Python)
-54-  BackIt https://github.com/nairuzabulhul/BackIT (Python)
-53-  CodeBits: https://github.com/nairuzabulhul/.CodeBits
-52-  Tech Terminology ---->  https://github.com/nairuzabulhul/Web-terminology
-51-  FFC Algorithm Scripting --->  https://github.com/nairuzabulhul/Free_Code_Camp_Algorithm
-50-  General Commands ----> https://github.com/nairuzabulhul/General-Commands
+-  [Open Gate](https://github.com/nairuzabulhul/OpenGate) __--> VPN script__  
 
-Full-Stack :
-49- Jquery Wizard : https://github.com/nairuzabulhul/Form-wizard/tree/master (jQuery)
-48- Django API : https://github.com/nairuzabulhul/django_api (Django)
-47- Serialize Form Input to JSON: https://github.com/nairuzabulhul/serialize_form_input_json (Noded.js)
-46- Autosave App https://github.com/nairuzabulhul/auto-save-form  (Node.js)
-45- Muzzika : https://github.com/nairuzabulhul/Muzzika/tree/master  (Django)
-44- Twilio SMS APP: https://github.com/nairuzabulhul/Twilio_SMS_APP/tree/master         (python(Django)
-43- Passport.js Authentication https://github.com/nairuzabulhul/Authenticaion-passport.js/tree/master/secretpage (Node.js)
-42- Yelp Camp:                                                                           (node.js)
+-  [KeyPlexer](https://github.com/nairuzabulhul/KeyPlexer) __--> Python Keylogger__
+
+ - [BackIt](https://github.com/nairuzabulhul/BackIT) __--> Backup script_
+ 
+ 
+
+### Bash Scripting:
+
+- [Firewall Rules](https://github.com/nairuzabulhul/Firewall_Rules) __ --> customizable IPtables Rules__
+
+- [Bash Scripting](https://github.com/nairuzabulhul/Bash_scripting) __--> basic bash scripting__
+
+
+ 
+### C:
+
+- [Operating System programs in C](https://github.com/nairuzabulhul/Operating-System-in-C)
+
+
+
+### Informational Repos
+
+-  [CodeBits:](https://github.com/nairuzabulhul/.CodeBits)
+
+-  [Tech Terminology](https://github.com/nairuzabulhul/Web-terminology)
+
+-  [FFC Algorithm Scripting](https://github.com/nairuzabulhul/Free_Code_Camp_Algorithm)
+
+-  [General Commands](https://github.com/nairuzabulhul/General-Commands)
+
+- [E-books](https://github.com/nairuzabulhul/E-Books)
+
+
+### Full-Stack :
+
+48- Jquery Wizard : https://github.com/nairuzabulhul/Form-wizard/tree/master (jQuery)
+
+47- Django API : https://github.com/nairuzabulhul/django_api (Django)
+
+46- Serialize Form Input to JSON: https://github.com/nairuzabulhul/serialize_form_input_json (Noded.js)
+
+45- Autosave App https://github.com/nairuzabulhul/auto-save-form  (Node.js)
+
+44- Muzzika : https://github.com/nairuzabulhul/Muzzika/tree/master  (Django)
+
+43- Twilio SMS APP: https://github.com/nairuzabulhul/Twilio_SMS_APP/tree/master         (python(Django)
+
+42- Passport.js Authentication https://github.com/nairuzabulhul/Authenticaion-passport.js/tree/master/secretpage (Node.js)
+
 41- Recipes World: https://github.com/nairuzabulhul/Recipes_World/blob/master/README.MD  (JS node.js)
+
 40- Blogging Web App    :https://github.com/nairuzabulhul/Blogging_Web_App              (JS node.js)
 
 ------------------------------------------------------------------------------------------------------------------------------
