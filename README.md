@@ -28,17 +28,23 @@ __Official Personal Portfolio: https://codepen.io/NairuzAb/full/eJVJN __
 
 
 
+#### Algorithms & Data Structures:
+
+-  [FFC Algorithm Scripting](https://github.com/nairuzabulhul/Free_Code_Camp_Algorithm)
+
+-  [General Commands](https://github.com/nairuzabulhul/General-Commands)
+
+-  [LeetCode Problems in Python ](https://github.com/nairuzabulhul/LeetCode)
+
+
 ### Informational Repos
 
 -  [CodeBits:](https://github.com/nairuzabulhul/.CodeBits)
 
 -  [Tech Terminology](https://github.com/nairuzabulhul/Web-terminology)
 
--  [FFC Algorithm Scripting](https://github.com/nairuzabulhul/Free_Code_Camp_Algorithm)
-
--  [General Commands](https://github.com/nairuzabulhul/General-Commands)
-
 -  [E-books](https://github.com/nairuzabulhul/E-Books)
+
 
 
 ### Full-Stack :
