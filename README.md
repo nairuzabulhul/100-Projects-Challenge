@@ -4,7 +4,7 @@ __Official Personal Portfolio: https://codepen.io/NairuzAb/full/eJVJN __
 
 
 
-### Python (Networking & Security):  
+#### Python (Networking & Security):  
 
 -  [Open Gate](https://github.com/nairuzabulhul/OpenGate)   __--> VPN script__  
 
@@ -14,7 +14,7 @@ __Official Personal Portfolio: https://codepen.io/NairuzAb/full/eJVJN __
  
  
 
-### Bash Scripting:
+#### Bash Scripting:
 
 - [Firewall Rules](https://github.com/nairuzabulhul/Firewall_Rules)  __ --> customizable IPtables Rules__
 
@@ -22,7 +22,7 @@ __Official Personal Portfolio: https://codepen.io/NairuzAb/full/eJVJN __
 
 
  
-### Operating Systems in C:
+#### Operating Systems in C:
 
 - [Operating System programs in C](https://github.com/nairuzabulhul/Operating-System-in-C)
 
@@ -37,7 +37,7 @@ __Official Personal Portfolio: https://codepen.io/NairuzAb/full/eJVJN __
 -  [LeetCode Problems in Python ](https://github.com/nairuzabulhul/LeetCode)
 
 
-### Informational Repos
+#### Informational Repos
 
 -  [CodeBits:](https://github.com/nairuzabulhul/.CodeBits)
 
@@ -47,7 +47,7 @@ __Official Personal Portfolio: https://codepen.io/NairuzAb/full/eJVJN __
 
 
 
-### Full-Stack :
+#### Full-Stack :
 
 48- Jquery Wizard : https://github.com/nairuzabulhul/Form-wizard/tree/master (jQuery)
 
