@@ -5,19 +5,19 @@ Official Personal Portfolio: https://codepen.io/NairuzAb/full/eJVJN
 
 ### Python (Networking & Security):  
 
--  [Open Gate](https://github.com/nairuzabulhul/OpenGate) __--> VPN script__  
+-  [Open Gate](https://github.com/nairuzabulhul/OpenGate)   __--> VPN script__  
 
--  [KeyPlexer](https://github.com/nairuzabulhul/KeyPlexer) __--> Python Keylogger__
+-  [KeyPlexer](https://github.com/nairuzabulhul/KeyPlexer)  __--> Python Keylogger__
 
- - [BackIt](https://github.com/nairuzabulhul/BackIT) __--> Backup script_
+-  [BackIt](https://github.com/nairuzabulhul/BackIT)        __--> Backup script__
  
  
 
 ### Bash Scripting:
 
-- [Firewall Rules](https://github.com/nairuzabulhul/Firewall_Rules) __ --> customizable IPtables Rules__
+- [Firewall Rules](https://github.com/nairuzabulhul/Firewall_Rules)  __ --> customizable IPtables Rules__
 
-- [Bash Scripting](https://github.com/nairuzabulhul/Bash_scripting) __--> basic bash scripting__
+- [Bash Scripting](https://github.com/nairuzabulhul/Bash_scripting)  __--> basic bash scripting__
 
 
  
@@ -63,14 +63,23 @@ Official Personal Portfolio: https://codepen.io/NairuzAb/full/eJVJN
 ------------------------------------------------------------------------------------------------------------------------------
 
 39- Todo-List: https://github.com/nairuzabulhul/To-do-List-App
+
 38- Official Personal Portfolio: http://nairuzabulhul.esy.es/portfolio/index.html
+
 37- Wikipedia Search Engine(Excellent): https://github.com/nairuzabulhul/Wikipedia-Search-Engine--Zipline 
+
 36- Campers News: https://github.com/nairuzabulhul/Campers-News-Zipline
+
 35- Twitch Application : http://nairuzabulhul.github.io/Twitchtv-application/index.html
+
 34- Color Picker Game : https://nairuzabulhul.github.io/Color-picker-Game/
+
 32- JavaScript Calculator: https://github.com/nairuzabulhul/JavaScript-Calculator-Zipline
+
 31- Quote Machine : https://github.com/nairuzabulhul/Quote-Machine-Zipline
+
 30- Pomodoro Clock : https://github.com/nairuzabulhul/Pomodoro-Clock-Zilpline
+
 29- Local Weather App : https://github.com/nairuzabulhul/Local-Weather-App-Zipline
 
 --------------------------------------------------------------------------------------------------
