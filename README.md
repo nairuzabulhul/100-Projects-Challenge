@@ -1,7 +1,8 @@
 # 100-Projects-Challenge
-Projects from Sophomore year to Senior year at AU 
 
-Official Personal Portfolio: https://codepen.io/NairuzAb/full/eJVJN
+__Official Personal Portfolio: https://codepen.io/NairuzAb/full/eJVJN __
+
+
 
 ### Python (Networking & Security):  
 
