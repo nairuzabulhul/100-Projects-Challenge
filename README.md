@@ -1,7 +1,6 @@
 # 100-Projects-Challenge
 
-__Official Personal Portfolio: https://codepen.io/NairuzAb/full/eJVJN __
-
+__Official Personal Portfolio: https://codepen.io/NairuzAb/full/eJVJNr __
 
 
 #### Python (Networking & Security):  
